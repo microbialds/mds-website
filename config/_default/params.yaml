@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night:
-  font: native
-  font_size: L
+  theme_day: earth
+  theme_night: 
+  font: minimal
+  font_size: l
 
 # SEO
 
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Juan A. Ugalde. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false

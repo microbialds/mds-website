@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Microbial Data Science Group # Website name
-baseURL: 'https://ugaldelab.netlify.app' # Website URL
+title: UgaldeLab | Microbial Data Science # Website name
+baseURL: 'https://ugaldelab.org' # Website URL
 
 ############################
 ## LANGUAGE
