@@ -7284,7 +7284,7 @@ ul.task-list li input[type='checkbox'] {
 
 /* Navigation bar text */
 .navbar-light {
-  font-family: "Roboto", sans-serif;
+  font-family: "Lora", sans-serif;
   font-weight: 400;
   line-height: 1.25;
   text-rendering: optimizeLegibility; }
@@ -7296,7 +7296,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Lora", sans-serif;
   font-weight: 400;
   margin-top: 1rem;
   margin-bottom: 0.5rem;
@@ -7351,7 +7351,7 @@ a:focus {
 
 pre,
 code {
-  font-family: "Roboto Mono", monospace; }
+  font-family: "Cutive Mono", monospace; }
 
 pre,
 code:not(.hljs) {
@@ -9004,7 +9004,7 @@ html[dir='rtl'] body {
 
 .section-subheading {
   font-size: 1.25rem;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Lora", sans-serif;
   font-weight: bold;
   margin-top: 1rem;
   margin-bottom: 0.5rem; }

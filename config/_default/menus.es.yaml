@@ -1,0 +1,10 @@
+main:
+  - name: Miembros
+    url: people
+    weigth: 30
+  - name: Publicaciones
+    url: publication
+    weigth: 50
+  - name: Contacto
+    url: contact
+    weigth: 60
